@@ -10,9 +10,12 @@ Dashboard local para visualizar RT/Accuracy y métricas del Simon task.
 
 ## Requisitos
 - R >= 4.2
-- Paquetes: shiny, tidyverse, DT, plotly, readr, readxl, writexl, ...
+- Paquetes: shiny, tidyverse, DT, plotly, readr, readxl, writexl.
 
 ## Ejecutar
 ```r
 shiny::runApp()
 ```
+
+## Simulated Data 
+He agregado conjuntos de datos que son ficticios para probar la correcta ejecución de la shiny app
